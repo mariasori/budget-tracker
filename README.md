@@ -18,6 +18,7 @@ The purpose of this challenge was to create a budget tracking application that i
 [Click here](https://serene-beach-71093.herokuapp.com/) to see the deployed application on Heroku.
 
 ## Screenshot
+![image](https://user-images.githubusercontent.com/88404610/150233546-061a7f4f-2bac-41e5-95da-1d05278074a0.png)
 
 ## Usage
 The budget tracker can be used to track deposits and expenses.  The application also has the ability to enter deposits or expenses whill offline.  The transactions will be added to the tracker once the application is back online.
